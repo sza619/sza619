@@ -53,8 +53,8 @@
 ---
 
 ## 📈 GitHub Stats
-[https://github-readme-stats.vercel.app/api?username=sza619&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=sza619)
-[https://github-readme-stats.vercel.app/api/top-langs/?username=sza619&layout=compact&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=sza619)
+<a href="https://github-readme-stats.vercel.app/api?username=sza619">
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=sza619&show_icons=true&theme=react&background=2c2b31&bg_color=2c2b31&hide_border=true&locale=en" alt="sza619"  />
 
 ---
 
