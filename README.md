@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack💻
 
 ### Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -51,7 +51,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats📈
 <a href="https://github-readme-stats.vercel.app/api?username=sza619">
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=sza619&show_icons=true&theme=react&background=2c2b31&bg_color=2c2b31&hide_border=true&locale=en" alt="sza619"  />
 </a>
