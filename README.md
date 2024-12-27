@@ -1,4 +1,4 @@
-# Hi there! 👋 Welcome to My GitHub Profile
+# Hi there! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sza619&color=blue)
 
@@ -53,11 +53,13 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sza619&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sza619&layout=compact&theme=radical)
+[https://github-readme-stats.vercel.app/api?username=sza619&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=sza619)
+[https://github-readme-stats.vercel.app/api/top-langs/?username=sza619&layout=compact&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=sza619)
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&width=435&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
 </p>
+
+
