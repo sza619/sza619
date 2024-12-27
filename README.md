@@ -1,10 +1,9 @@
-# Hi there! 👋
-
+![](https://user-images.githubusercontent.com/89148021/129922898-a69fab36-7b6c-46ee-8f3d-91398a27e671.png)
+# Hi, I'm Zain! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=sza619&color=blue)
 
-## 🚀 About Me
-- 🌱 I’m a **MERN Stack** developer
-- 👯 I’m looking to collaborate on **React Projects**, **Tech Articles**
+## About Me⚡
+- 🌐 Looking to collaborate on **Projects**, **Tech Articles**
 - 📫 How to reach me: You can mail me at **syed.zain4401@gmail.com**
 
 ---
@@ -55,11 +54,16 @@
 ## 📈 GitHub Stats
 <a href="https://github-readme-stats.vercel.app/api?username=sza619">
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=sza619&show_icons=true&theme=react&background=2c2b31&bg_color=2c2b31&hide_border=true&locale=en" alt="sza619"  />
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=sza619">
+<img width="49%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sza619&theme=react&background=2c2b31&hide_border=true" alt="sza619"/>
+</a>
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&width=435&lines=Thanks+for+visiting+my+profile!" alt="Typing SVG" />
 </p>
+
 
 
